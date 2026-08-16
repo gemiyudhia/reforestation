@@ -1,2 +1,0 @@
-# reforestation
-GitHub Reforestation
